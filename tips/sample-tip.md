@@ -6,3 +6,4 @@ parent: Tips
 ---
 
 Tip 1
+Tip 2
