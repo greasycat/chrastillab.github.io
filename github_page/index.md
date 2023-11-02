@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GitHub Page
+title: Write Your Own Documentation!
 nav_order: 1
 has_children: true
 ---
@@ -35,14 +35,3 @@ GitHub Pages is a web hosting service provided by GitHub for hosting static webs
 - **Project Websites**: Open-source projects often maintain dedicated websites using GitHub Pages to provide information, news, and downloads.
 
 - **Team Pages**: Organizations can use GitHub Pages to share information about their teams, projects, and goals.
-
-## Getting Started
-
-To create a GitHub Pages site, you typically need to:
-1. Create a GitHub repository.
-2. Name the repository following specific conventions (e.g., `<username>.github.io` for user pages).
-3. Add your HTML, CSS, and other assets to the repository.
-4. Enable GitHub Pages in your repository's settings.
-5. Optionally, configure a custom domain.
-
-GitHub Pages simplifies the process of hosting web content, making it a valuable tool for developers to share their projects and ideas with a global audience.
