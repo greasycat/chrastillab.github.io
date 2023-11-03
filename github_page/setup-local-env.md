@@ -4,9 +4,6 @@ title: 1. Set Up Local Environment
 nav_order: 1
 parent: Write Your Own Documentation!
 ---
-{: .note}
-This is  a copy-paste of the repo readme file [REAME](https://github.com/ChrastilLab/chrastillab.github.io)
-
 ## Accessing the Documentation Locally
 
 
@@ -19,17 +16,25 @@ What you need
 - RubyGem
 - Bundler
 
-### Install Prerequisites
+### 1. Install Prerequisites
 
 Read the official installation guide [Jekyll official Installation Guide](https://jekyllrb.com/docs/installation/). It will guide your installation of Ruby and RubyGem step-by-step
 -  If **Bundler** is not installed after finishing the above guide: Install Bundler by running `gem install bundler` in your terminal.
 
-### Setting Up the Local Environment
 
-1. Clone this repository to your local machine using the following command:
+### 2. Fork to Your Own Repo
+Click on this [Link](https://github.com/ChrastilLab/chrastillab.github.io) and find the fork button as shown in the image below
+- ![forking](/assets/images/github_page/adding-documentation/fork.png)
+
+### 3. Setting Up the Local Environment
+
+1. Clone **your own** repository to your local machine using the following command:
+
+{: .highlight}
+remember to replace `YOUR_GITHUB_USERNAME` with your actual GitHub  username
 
    ```
-   git clone https://github.com/chrastillab/chrastillab.github.io
+   git clone https://github.com/YOUR_GITHUB_USERNAME/chrastillab.github.io
    ```
 
 2. Navigate to the repository's root directory:
@@ -44,7 +49,7 @@ Read the official installation guide [Jekyll official Installation Guide](https:
    bundle install
    ```
 
-### Viewing the Documentation
+### 4. Viewing the Documentation
 
 1. Once the dependencies are installed, you can start a local development server by running the following command:
 
@@ -58,12 +63,4 @@ Read the official installation guide [Jekyll official Installation Guide](https:
 
    You should see the documentation website running locally.
 
-### Editing the Documentation
-
-1. To make changes to the documentation, navigate to the appropriate Markdown files in the repository's directory structure.
-
-2. Edit the Markdown files using your preferred text editor.
-
-3. Save your changes.
-
-4. Refresh the documentation website in your browser to see your edits.
+Now go to next section to see how to editing and uploading the page
