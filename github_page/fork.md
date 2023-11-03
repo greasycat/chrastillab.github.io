@@ -1,9 +1,13 @@
 ---
 layout: default
-title: 4. Fork,Commit and Pull Requesting
+title: 4. Upload your changes
 nav_order: 4
 parent: Write Your Own Documentation!
 ---
+
+{: .note}
+(Optional) If you've already forked the repo, sync it to update!
+![](/assets/images/github_page/adding-documentation/sync.png)
 
 # How to add your own documentation to this site
 
