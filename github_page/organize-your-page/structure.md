@@ -2,7 +2,7 @@
 layout: default
 title: "Folder structure"
 nav_order: 1
-parent: "2. Organize your Pages"
+parent: "3. Organize your Pages"
 grand_parent: Write Your Own Documentation!
 ---
 

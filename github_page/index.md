@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Write Your Own Documentation!
+title: "Write Your Own Documentation!"
 nav_order: 1
 has_children: true
 ---

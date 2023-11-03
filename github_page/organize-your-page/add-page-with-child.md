@@ -2,7 +2,7 @@
 layout: default
 title: "Add a Page with Child Pages"
 nav_order: 3
-parent: "2. Organize your Pages"
+parent: "3. Organize your Pages"
 grand_parent: Write Your Own Documentation!
 ---
 

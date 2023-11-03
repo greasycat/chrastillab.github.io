@@ -2,7 +2,7 @@
 layout: default
 title: "2. Markdown: The core of documenting"
 nav_order: 2
-parent: Write Your Own Documentation!
+parent: "Write Your Own Documentation!"
 ---
 
 # All the documentation are markdown-based

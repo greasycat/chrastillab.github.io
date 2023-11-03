@@ -2,7 +2,7 @@
 layout: default
 title: "Add a Single Page"
 nav_order: 2
-parent: "2. Organize your Pages"
+parent: "3. Organize your Pages"
 grand_parent: Write Your Own Documentation!
 ---
 

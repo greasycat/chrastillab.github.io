@@ -2,7 +2,7 @@
 layout: default
 title: "Add a Collection"
 nav_order: 4
-parent: "2. Organize your Pages"
+parent: "3. Organize your Pages"
 grand_parent: Write Your Own Documentation!
 ---
 
