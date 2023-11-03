@@ -1,7 +1,6 @@
 ---
 layout: default
 title: (HowTo) Setup a Github Page with Jekyll
-nav_order: 2
 parent: Write Your Own Documentation!
 
 ---
