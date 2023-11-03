@@ -1,6 +1,7 @@
 ---
 layout: default
-title: User Management
+title: Reverse Proxies
 nav_order: 1
+parent: Web Services
 has_children: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Server Management
+title: "Web Services"
 nav_order: 2
 has_children: true
 ---
