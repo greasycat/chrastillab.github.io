@@ -6,6 +6,9 @@ parent: "3. Organize your Pages"
 grand_parent: Write Your Own Documentation!
 ---
 
+{: .warning}
+Always **UPDATE** your own repo before doing any editing work!
+- ![](/assets/images/github_page/adding-documentation/sync.png)
 
 # How to add a Collection
 1. Create a folder called `_things`, remember you must put an **underscore** `_` before the name 

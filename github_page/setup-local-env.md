@@ -31,7 +31,7 @@ Click on this [Link](https://github.com/ChrastilLab/chrastillab.github.io) and f
 1. Clone **your own** repository to your local machine using the following command:
 
 {: .highlight}
-remember to replace `YOUR_GITHUB_USERNAME` with your actual GitHub  username
+Remember to replace `YOUR_GITHUB_USERNAME` with your actual GitHub  username
 
    ```
    git clone https://github.com/YOUR_GITHUB_USERNAME/chrastillab.github.io

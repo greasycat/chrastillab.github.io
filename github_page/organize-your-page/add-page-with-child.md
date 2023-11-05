@@ -6,6 +6,9 @@ parent: "3. Organize your Pages"
 grand_parent: Write Your Own Documentation!
 ---
 
+{: .warning}
+Always **UPDATE** your own repo before doing any editing work!
+- ![](/assets/images/github_page/adding-documentation/sync.png)
 
 # How to Add a new Page with child pages
 Let's be more organized by create pages with child pages. For example we want to write some docs on animals

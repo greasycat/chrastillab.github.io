@@ -5,6 +5,10 @@ nav_order: 2
 parent: "Write Your Own Documentation!"
 ---
 
+{: .warning}
+Always **UPDATE** your own repo before doing any editing work!
+- ![](/assets/images/github_page/adding-documentation/sync.png)
+
 # All the documentation are markdown-based
 
 Markdown is a lightweight markup language that allows you to format text on the web easily. It's widely used for creating documentation, README files, and forum posts. Markdown uses a simple and human-readable syntax to style your text. Here's a quick guide to get you started:
